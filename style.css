@@ -84,10 +84,6 @@ span{
     transition: bottom 1s, left 1s;
 }
 
-.images:hover .shape{
-    bottom: 40px;
-}
-
 .images:hover .jammid{
     left: 45%;
 }
